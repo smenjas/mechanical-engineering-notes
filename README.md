@@ -39,3 +39,6 @@
 - [Mechanization](https://en.wikipedia.org/wiki/Mechanization)
 - [Manufacturing](https://en.wikipedia.org/wiki/Manufacturing)
   - [American system of manufacturing](https://en.wikipedia.org/wiki/American_system_of_manufacturing)
+
+## License
+Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).
