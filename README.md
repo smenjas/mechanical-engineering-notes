@@ -40,5 +40,14 @@
 - [Manufacturing](https://en.wikipedia.org/wiki/Manufacturing)
   - [American system of manufacturing](https://en.wikipedia.org/wiki/American_system_of_manufacturing)
 
+## YouTube
+- [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
+- [MIT Mechanical Engineering](https://www.youtube.com/channel/UCVXMaD9Gez-O1XKM8tuuzkA)
+- [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+- [MIT School of Architecture & Planning](https://www.youtube.com/channel/UCgbvegDSq3uxWUrlllbvhLw)
+- [MIT School of Engineering](https://www.youtube.com/channel/UCx-Pk4CGqEb0FO5A6RyRNxA)
+- [Practical Engineering](https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ)
+- [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
+
 ## License
 Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).
