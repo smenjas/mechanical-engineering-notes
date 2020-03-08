@@ -40,7 +40,7 @@
 - [Manufacturing](https://en.wikipedia.org/wiki/Manufacturing)
   - [American system of manufacturing](https://en.wikipedia.org/wiki/American_system_of_manufacturing)
 
-## YouTube
+## Videos
 - [Machine Thinking](https://www.youtube.com/channel/UCfsznjef2zGJnrCRQBXqo6Q)
 - [MIT Mechanical Engineering](https://www.youtube.com/channel/UCVXMaD9Gez-O1XKM8tuuzkA)
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
